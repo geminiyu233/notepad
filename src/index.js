@@ -29,6 +29,9 @@ const createWindow = () => {
     // when you should delete the corresponding element.
     mainWindow = null;
   });
+
+  // 引入主进程
+  require('./main/ipcMain.js')
 };
 
 // This method will be called when Electron has finished
