@@ -4,7 +4,7 @@
 
 ## Live demo
 
-正在开发中...
+![avatar](/screenshots/overview.png)
 
 
 <!-- [个人博客](https://armour.github.io/vue-typescript-admin-template) -->
