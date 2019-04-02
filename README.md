@@ -1,4 +1,4 @@
-# 个人博客-管理后台
+# 记事本
 
 > 本项目技术栈基于Electron + electron-forge脚手架 + 原生JS
 
